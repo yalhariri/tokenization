@@ -1,0 +1,15 @@
+__pycache__/
+.DS_Store
+*.log
+.pybuilder/
+.ipynb_checkpoints
+profile_default/
+__pypackages__/
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/

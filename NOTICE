@@ -1,0 +1,37 @@
+Tokenization
+=========
+
+This repository contains materials (notebooks and code) created by Youssef Al Hariri.
+
+Attribution and third-party content:
+
+- Portions of `notebooks/12_3_Tokenization.ipynb` were adapted from materials related to
+  Simon J.D. Prince's book "Understanding Deep Learning" (MIT Press). The original
+  notebook source is available from the UDL Book project: https://udlbook.github.io/udlbook/.
+
+- The following third-party libraries are used by the notebooks. Please consult each
+  project's own license for details; this repository's `LICENSE` (Apache-2.0) does not
+  relicense those projects.
+
+  - jupyter / jupyterlab — interactive notebooks and lab environment
+  - ipywidgets — interactive widgets
+  - tiktoken — OpenAI BPE tokenizer implementation
+  - tokenizers — Hugging Face tokenizers library
+  - transformers — Hugging Face transformers library
+  - sentencepiece — Google SentencePiece tokenizer
+  - spacy — spaCy NLP library
+  - nltk — Natural Language Toolkit
+
+Where to find licenses for the third-party libraries:
+
+- Jupyter / JupyterLab: https://jupyter.org/ (various components; see project pages for license info)
+- ipywidgets: https://github.com/jupyter-widgets/ipywidgets
+- tiktoken: https://github.com/openai/tiktoken
+- tokenizers / transformers: https://github.com/huggingface/transformers and https://github.com/huggingface/tokenizers
+- sentencepiece: https://github.com/google/sentencepiece
+- spaCy: https://spacy.io/
+- NLTK: https://www.nltk.org/
+
+If you believe any content in this repository is improperly attributed or requires
+additional permissions for reuse, please open an issue or contact the repository
+maintainer.
